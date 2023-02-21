@@ -7,7 +7,7 @@
 
 ## Bottleneck
 - Difficult to get parameters that can perfectly describe the contours of the pond.
-- There are several pools that are not detected due to inappropriate contours.
+- There are several vibrios that are not detected due to inappropriate contours.
 
 ## Area Improvement
 - Crop the image to get the whole cup 
